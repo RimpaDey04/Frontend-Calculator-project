@@ -20,18 +20,18 @@ A simple, responsive, and user-friendly calculator built using HTML, CSS, and Va
 
 # Technologies Used
 
-HTML5 – Structure of the calculator
+1. HTML5 – Structure of the calculator
 
-CSS3 – Styling and layout
+2. CSS3 – Styling and layout
 
-JavaScript (ES6) – Logic and interactivity
+3. JavaScript (ES6) – Logic and interactivity
 
 # Working Principle
 
-User inputs numbers using buttons
+- User inputs numbers using buttons
 
-JavaScript captures button clicks
+- JavaScript captures button clicks
 
-Arithmetic operations are evaluated using logical conditions
+- Arithmetic operations are evaluated using logical conditions
 
-Result is displayed dynamically on the screen
+- Result is displayed dynamically on the screen.
